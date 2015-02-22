@@ -36,3 +36,11 @@ Like the proxy pattern but the adapter pattern has a specific use case to simpli
 
 ## Consequences and concerns
 - None as it solves a particular problem
+
+# Singleton
+
+# Factory
+
+# Decorator
+
+# Command
